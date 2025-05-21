@@ -2,6 +2,7 @@
 # 🔭 Classificação de Galáxias com Inteligência Artificial
 
 Este projeto utiliza um modelo de machine learning treinado para classificar galáxias com base em probabilidades fornecidas para três categorias: **elíptica**, **espiral** e **não galáxia**. A interface foi desenvolvida com [Gradio](https://www.gradio.app/) para permitir que qualquer pessoa interaja facilmente com o modelo.
+ URL: https://471ba847198c2b6806.gradio.live
 
 ---
 
